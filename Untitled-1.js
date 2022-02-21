@@ -57,8 +57,8 @@ function ugol(x,y, sim){
 
     for(let i = 0; i <= y; i++){
     for(let j = 0; j <= x ; j++){
-        if( )){
-                stk += sim ;
+        if( i=j)
+{                stk += sim ;
         } else{
                 stk += ' ';
             }
